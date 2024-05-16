@@ -1,0 +1,22 @@
+reload_btn=Button((619, 1197),size=100,text="reload",image="bullets.png")
+	reload_btn.size=100
+	scroll_but=Button((620, 600),text="Scroll")
+	scroll_but.size=40
+	leave_but=Button((620, 800),text="Leave")
+	leave_but.size=40
+	select_enemy_btn=Button((520, 800),text="select en")
+	select_enemy_btn.size=40
+	btn_g1=GunButton((100, 550),text=p.guns[0].name)
+	btn_g1.size=43
+	btn_g2=GunButton((100, 850),text=p.guns[1].name)
+	btn_g2.size=42
+	click_bomb_btn=Button((620, 1000),text="Put")
+	click_bomb_btn.size=40
+	play_type_change_btn=Button((677, 61),text="Change")
+	play_type_change_btn.size=57
+	get_out_btn=Button((520, 1000),text="remove")
+	get_out_btn.size=40
+	bomb_btn=Button((200, 800),text="bomb")
+	bomb_btn.size=40
+	fire_btn=Button((619, 344),text="Fire")
+	fire_btn.size=100
