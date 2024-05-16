@@ -5,6 +5,15 @@
 
 Tank Fight is an action-packed Python game developed using Pygame that pits you against intelligent enemies in a dynamic battlefield. It offers a user-friendly interface with intuitive dual joystick controls (inspired by Mini Militia) for 360-degree rotation, aiming, and movement. The game boasts a compelling feature set, detailed below:
 
+## **Demo**
+
+
+https://github.com/akhtarmdsaad/tank-fight/assets/57033728/323b9a30-2c9a-425e-bfd6-f509c3bd8ca8
+
+
+
+
+**Note:** It is made for mobile phones and are playable using pydroid3 app. Not suitable for PC.
 ## **Features**
 
 * **Intuitive Dual Joystick Controls:** Experience smooth and responsive tank movement with 360-degree aiming and firing controls, reminiscent of Mini Militia's familiar gameplay.
@@ -35,11 +44,11 @@ Tank Fight is an action-packed Python game developed using Pygame that pits you 
 
 ## **Getting Started**
 
-1. **Installation:** Ensure you have Python (version 3.x recommended) and Pygame installed on your system. You can install Pygame using `pip install pygame`.
+1. **Installation:** Download the App ***Pydroid3*** from Play store. 
 
 2. **Download the Code:** Clone or download the Tank Fight project source code.
 
-3. **Run the Game:** Navigate to the project directory in your terminal and execute the main game script using `python main.py`. (Replace `main.py` with the actual file name if it's different.)
+3. **Run the Game:** Open the file `main.py` and tap on play button.
 
 ## **Additional Notes**
 
@@ -59,7 +68,7 @@ Tank Fight is an action-packed Python game developed using Pygame that pits you 
 * **Advanced AI Tactics:** As the player progresses, Implementing more advanced enemy AI tactics that require more strategic thinking and maneuvering to overcome. This could involve flanking maneuvers, coordinated attacks, or utilization of cover.
 * **Destructible Environments:** Making certain elements of the map destructible, allowing players to strategically use the environment to their advantage or disadvantage.
 
-**Contributing**
+## **Contributing**
 
 If you're interested in contributing to the Tank Fight project, feel free to:
 
