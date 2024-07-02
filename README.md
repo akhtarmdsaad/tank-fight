@@ -1,7 +1,7 @@
 ## **Tank Fight**
 **A thrilling Python game inspired by the classic Mini Militia and Players Unknown Battleground (PUBG)!**
 
-**Note:** It is made for mobile phones and are playable using pydroid3 app. Not suitable for PC.
+**Note:** It is made for mobile phones (not tested in iphones) and are playable using [Pydroid 3 app](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en). Not suitable for PC.
 ## **Description**
 
 Tank Fight is an action-packed Python game developed using Pygame that pits you against intelligent enemies in a dynamic battlefield. It offers a user-friendly interface with intuitive dual joystick controls (inspired by Mini Militia) for 360-degree rotation, aiming, and movement. The game boasts a compelling feature set, detailed below:
